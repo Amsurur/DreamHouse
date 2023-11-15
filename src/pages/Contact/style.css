@@ -1,0 +1,10 @@
+.ser1 {
+  background-image: url("../../assets/serBg1.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ser2 {
+  background-image: url("../../assets/serBg2.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}

@@ -1,0 +1,37 @@
+{
+  "ru": "Ru",
+  "en": "En",
+  "nav": {
+    "p1": "Datails",
+    "p2": "About",
+    "p3": "Contact",
+    "p4": "Gallery",
+    "p5": "Services",
+    "p6": "Career",
+    "p7": "News"
+  },
+  "home": {
+    "sec1": {
+      "p1": "We build your dream house well and professionally",
+      "p2": "Our team can build a house according to your wishes. Any design and concept, we will help make it happen",
+      "p3": "Contact us"
+    },
+    "sec2": {
+      "p1": "Our company",
+      "p2": "Debuilds is a team of architects, interior design, and contractors who help our clients not only to build their dream building, but also to feel comfortable after the building is used.",
+      "p3": "We already handled",
+      "span1": "50+ Clients",
+      "span2": "30+ House",
+      "span3": "20+ Building"
+    },
+    "sec3": {
+      "p1": "Our services",
+      "p2": "Our services include building new ",
+      "p2_1": "buildings and renovating old buildings",
+      "p3": "Design building/house",
+      "p4": "We have an architect for design new buildings",
+      "p5": "Design building/house",
+      "p6": "  We have an architect for design new buildings"
+    }
+  }
+}

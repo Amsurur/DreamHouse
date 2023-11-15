@@ -1,0 +1,10 @@
+.sec1Bg {
+  background-image: url("../../assets/sec1Bg.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.sec3Bg {
+  background-image: url("../../assets//sec3Bg.svg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}

@@ -1,0 +1,75 @@
+.first {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  height: 100vh;
+}
+
+.second {
+  height: 100px;
+  width: 300px;
+  margin: auto;
+  margin-top: 15%;
+}
+
+.cancel {
+  color: red;
+  font-size: 30px;
+  cursor: pointer;
+}
+.first-img {
+  background-image: url("./assets/slider1.png");
+  background-size: cover;
+}
+.sec6 {
+  background-image: url("./assets/q.png");
+  background-size: cover;
+}
+/* .card1 {
+  background-image: url("./assets/350x350.png");
+  background-size: cover;
+}
+.card2 {
+  background-image: url("./assets/2.png");
+  background-size: cover;
+} */
+#app {
+  height: 100%;
+}
+html,
+body {
+  position: relative;
+  height: 100%;
+}
+
+body {
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+}
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}

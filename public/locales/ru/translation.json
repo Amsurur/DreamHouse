@@ -1,0 +1,37 @@
+{
+  "ru": "Ру",
+  "en": "Анг",
+  "nav": {
+    "p1": "Детали",
+    "p2": "О нас",
+    "p3": "Контакты",
+    "p4": "Галерея",
+    "p5": "Сервис",
+    "p6": "Карера",
+    "p7": "Новости"
+  },
+  "home": {
+    "sec1": {
+      "p1": "Доставка товаров из Великобритании в Россию",
+      "p2": "Начните экономить до 80% на шопинге. Регистрируйтесь в OkeyPost, чтобы покупать со скидками в UK одежду, обувь, гаджеты известных брендов и безопасно отправлять вещи в Россию.      ",
+      "p3": "Свазаться с нами"
+    },
+    "sec2": {
+      "p1": "Наша компания",
+      "p2": " is a team of architects, interior design, and contractors who help our clients not only to build their dream building, but also to feel comfortable after the building is used.",
+      "p3": "We already handled",
+      "span1": "50+ Clients",
+      "span2": "30+ House",
+      "span3": "20+ Building"
+    },
+    "sec3": {
+      "p1": "Наш сервис",
+      "p2": "Наш сервис include building new ",
+      "p2_1": "buildings and renovating old buildings",
+      "p3": "Дезайн building/house",
+      "p4": "We have an architect for design new buildings",
+      "p5": "Дезайн building/house",
+      "p6": "  We have an architect for design new buildings"
+    }
+  }
+}
